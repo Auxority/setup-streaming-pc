@@ -1,0 +1,7 @@
+Git.Git
+Microsoft.VisualStudioCode
+Mozilla.Firefox
+OBSProject.OBSStudio
+OpenMedia.4KVideoDownloader
+VB-Audio.Voicemeeter.Banana
+VideoLAN.VLC
