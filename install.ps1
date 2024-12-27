@@ -31,6 +31,10 @@ Get-Content -Path "apps.txt" | ForEach-Object {
     }
 }
 
-# Install Freeshow using the ./install_freeshow.ps1 script
+# Install Freeshow using the ./installers/freeshow.ps1 script
 Write-Host "Installing Freeshow..."
 ./installers/freeshow.ps1
+
+# Install Dante Controller using the ./installers/dante-controller.ps1 script
+Write-Host "Installing Dante Controller..."
+./installers/dante-controller.ps1
